@@ -2,15 +2,18 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
-
+- project: Capstone
+  role: 
+  duration:  2D Pixel Platformer Game (Graduation Project)
+  url: "https://github.com/pixel0823/ya-pixel"
+  description: |
+    🎮 Designed the game’s storyline and participated in core game development  <br>
+    ☁️ Built and configured the EC2 server and RDS (PostgreSQL) for backend infrastructure  <br>
+    🗂 Designed the database schema  <br>
+    🌐 Currently developing the accompanying website
 # Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
+#- project: Springfield Community Outreach Group
+ # role: "Co-Founder & Organizer"
+  #duration: 2007 &mdash; Present
   # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+ # description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.

@@ -1,12 +1,52 @@
 # Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+## 💻 Tech Stack
 
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+### 🔤 Languages & Backend
+- skill: Java
+  description: Java development, object-oriented programming, and backend system design.
+  
+- skill: C++
+  description: Strong experience in C++ for systems and game development.
+  
+- skill: Python
+  description: Python programming for automation, web development, and data analysis.
 
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+- #skill: Kotlin
+  #description: Android development and backend integration using Kotlin.
+
+- skill: Node.js
+  description: Developing server-side applications using Node.js.
+
+### 🛠 Tools & DevOps
+- skill: Git
+  description: Version control using Git for collaborative development.
+
+- skill: Docker
+  description: Containerization of applications for development and production environments.
+
+- skill: AWS
+  description: Cloud infrastructure management using AWS (EC2, S3, RDS).
+
+- skill: MySQL
+  description: Database design and management using MySQL.
+
+- skill: PostgreSQL
+  description: Relational database management and optimization with PostgreSQL.
+  
+- skill: Unity
+  description: Game development using Unity for 2D and 3D projects.
+
+- skill: Eclipse
+  description: Java IDE for building applications and debugging.
+
+- skill: IntelliJ IDEA
+  description: Integrated development environment for Java, Kotlin, and other languages.
+
+- #skill: Android Studio
+  #description: Development of Android applications using Android Studio.
+  
+- skill: Postman
+  description: API testing and development with Postman.
+
+- skill: Linux
+  description: Experience in Linux-based systems and command-line operations.
